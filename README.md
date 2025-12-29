@@ -1,4 +1,4 @@
-# C_Examples
+# İzü C Pratikler
 if ve switch örnekleri
 #include <stdio.h>
 
